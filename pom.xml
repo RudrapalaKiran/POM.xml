@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://52.3.250.161:8081/repository/repo-1/</url>
+		    <url>http://43.207.71.109:8081/repository/swiggy-releases/</url>
 		</repository>
   	</distributionManagement>
 	
